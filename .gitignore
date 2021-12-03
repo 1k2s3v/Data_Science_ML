@@ -9,6 +9,12 @@ __pycache__/
 CC
 # C extensions
 *.so
+Ecommerce Purchases
+My_output
+example
+multi_index_example
+
+
 
 # Distribution / packaging
 .Python
